@@ -8,6 +8,8 @@ This is my homebase website. It's something of a landing page where you can see 
 
 <img src="assets/images/mountain.jpg" alt="My Photo" style="width:50%;">
 
+![My Photo](assets/images/mountain.jpg)
+
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
