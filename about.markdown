@@ -6,7 +6,7 @@ permalink: /about/
 
 This is my homebase website. It's something of a landing page where you can see what I am up to lately, both professionally and personally, and find ways to reach out or connect. So please reach out or connect. 
 
-<img src="assets/images/mountain.jpg" alt="My Photo" style="width:50%;">
+<img src="/assets/images/mountain.jpg" alt="My Photo" style="width:50%;">
 
 ![My Photo](assets/images/mountain.jpg)
 
