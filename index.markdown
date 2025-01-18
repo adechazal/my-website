@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
+title: home
 ---
-# Welcome to My Blog!
+# Welcome!
 Explore my thoughts on financial services, sustainability, and maybe a little adventure travel.
 
 
