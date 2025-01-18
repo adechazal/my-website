@@ -8,5 +8,3 @@ My name is Alex de Chazal and here I'm writing about custody and sustainability 
 
 <img src="{{ '/assets/images/mountain.jpg' | relative_url }}" alt="My Photo" style="width:50%;">
 
-
-![My Photo](assets/images/mountain.jpg)

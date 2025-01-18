@@ -18,11 +18,3 @@ Sustainable finance is a critical tool for achieving environmental and social go
 - **Lack of Standardization**: Definitions and metrics for sustainability vary widely.
 - **Risk of Greenwashing**: Companies might overstate their environmental impact.
 
-Sustainable finance is a critical tool for achieving environmental and social goals.
-Here are the main benefits:
-1. Reduces carbon footprint
-2. Supports innovation in green technologies
-
-However, there are challenges:
-- Lack of standardization
-- Risk of greenwashing
