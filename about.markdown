@@ -1,18 +1,16 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is my homebase website. It's something of a landing page where you can see what I am up to lately, both professionally and personally, and find ways to reach out or connect. So please reach out or connect. 
+
+<img src="assets/images/mountain.jpg" alt="My Photo" style="width:50%;">
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
 
 
 [jekyll-organization]: https://github.com/jekyll
