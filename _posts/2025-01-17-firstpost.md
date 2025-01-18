@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exploring Sustainability in Finance"
+title: "Community Solar in Jersey City"
 date: 2025-01-17
 categories: sustainability finance
 ---

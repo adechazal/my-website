@@ -6,6 +6,6 @@ layout: home
 title: Home
 ---
 # Welcome to My Blog!
-Explore my thoughts on financial services, sustainability, and adventure travel.
+Explore my thoughts on financial services, sustainability, and maybe a little adventure travel.
 
 
