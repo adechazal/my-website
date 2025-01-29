@@ -6,7 +6,7 @@ categories: [sustainability, energy]
 tags: [sustainability, impact investing, energy]
 ---
 
-This is a draft of a blog post I wrote for Sustainable Jersey City.
+This is the draft of a blog post I am writing for Sustainable Jersey City.
 
 # Did you catch our Community Solar campaign this past summer?
 
