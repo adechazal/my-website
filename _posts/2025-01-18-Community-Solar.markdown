@@ -18,7 +18,7 @@ I should mention that I’m relatively new to Jersey City, having just returned 
 
 The first thing to know about Community Solar is that you don’t need to install panels. A New Jersey company, Solar Landscape, installs these on top of warehouses, schools, or unused land. Once the project is active, the energy collected is fed back into the grid, which, in my case, is managed by PSE&G.
 
-Now, to benefit from the cheaper and greener energy, you need to sign up for the program. Participants then save, through a credit arrangement with their provider, **31% savings on their electricity bill**. As Deb Italiano, founder and board member of SJC and participant in the program says, it’s an arrangement where really everyone wins *(need quote from Deb on benefits of solar)*. Or maybe Ron can provide a quote from a participant perspective?
+Now, to benefit from the cheaper and greener energy, you need to sign up for the program. Participants then save, through a credit arrangement with their provider, **31% savings on their electricity bill**. As Deb Italiano, founder and board member of SJC and participant in the program says, it’s an arrangement where really everyone wins.
 
 ## Why do I need to sign up?
 
@@ -32,11 +32,9 @@ For these programs to succeed, companies like Solar Landscape must actively invo
 
 ## Bringing the Community On Board
 
-But moving the community to solar is not easy. As my fellow SJC member Devin Taylor says, *“the climate initiative actually needs more project managers, not PhDs!”* He has a point. Solar Landscape can produce heaps of gigawatts of solar energy, but unless there’s an effective and coordinated effort on the ground and in the communities, it’s not going anywhere. Unfortunately—and somewhat surprisingly to me—the simple offer of **31% savings on your electricity bill** doesn’t sell itself.
+But moving the community to solar is not easy. As my fellow SJC member Devin Taylor says, *“energy transformation needs more project managers, not PhDs!”* He has a point. Solar Landscape can produce heaps of gigawatts of solar energy, but unless there’s an effective and coordinated effort on the ground and in the communities, it’s not going anywhere. Unfortunately—and somewhat surprisingly to me—the simple offer of **31% savings on your electricity bill** doesn’t sell itself.
 
 So, we have deepened our outreach efforts in the community. We are now working closely with respected local leaders and businesses that can help provide a trustworthy voice and champion the benefits. Most recently, the Silverman Building Co. and Choc O’Pain companies have agreed to be Community Solar Ambassadors and help promote registrations with their employees or tenants. Having a trusted voice in the community to vouch for these benefits will help. And based on the success of this partnership, we’re looking to work with more local building owners and businesses.
-
-*(Maybe quote here from Paul and/or Choc O’Pain on the benefits/success/ease of the program.)*
 
 ## Looking Ahead: Be Part of the Solution
 
