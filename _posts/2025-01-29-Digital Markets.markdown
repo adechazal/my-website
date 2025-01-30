@@ -10,7 +10,7 @@ tags: [finance, investing, digital assets, custody]
 
 Things are looking up for the Crypto-Bros.
 
-At least that’s how it appears after the White House’s recent Executive Order on digital financial technology. This major policy move aims to **promote and protect** the use and fair access of digital assets, all while **clarifying regulations** and setting the stage for a more **transparent, innovative financial future** in a more competitive landscape.
+At least that’s how it appears after the White House’s recent Executive Order on digital financial technology. The policy change aims to **promote and protect** the use and fair access of digital assets, while **clarifying regulations** and setting the stage for a more **transparent, innovative, and competitive financial future**.
 
 ---
 
