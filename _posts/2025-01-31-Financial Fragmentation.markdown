@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Is the Financial World too Fragmented?"
+title: "Financial Fragmentation"
 date: 2025-01-31
 categories: [finance, investing, digital assets, custody]
 tags: [finance, investing, digital assets, custody]
 ---
 
-# Are financial markets too fragmented? 
+# SWIFT calls for harmony 
 
 This [report](https://impact.economist.com/projects/cost-of-fragmentation/) by the Economist Impact and commissioned by SWIFT makes the case that we are currently in a world of financial fragmentation. And, the future of fragmentation is bleak - “there are no winners”. They define financial fragmentation as “a reduction in international financial integration and the disruption of cross-border payments, credit and investment that ultimately reduces cross-border capital flows”. And the cost of this disarray is, in a worse case scenario; “global GDP roughly 6% lower and nearly 280 million fewer jobs.”    
 
