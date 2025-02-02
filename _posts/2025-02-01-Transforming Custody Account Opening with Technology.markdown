@@ -4,14 +4,14 @@ title: "Transforming Custody Account Opening with Technology"
 date: 2025-02-01
 categories: [finance, investing, tradfi, custody]
 tags: [finance, investing, digital assets, custody]
-image: assets/images/NY_Blue.jpeg
+image: assets/images/NY_Blue.jpeg 
 ---
 
 # Unlocking the Future: Transforming Custody Account Opening with Technology
 
 In an industry where regulatory compliance is a moving target and documentation volumes can be overwhelming, a recent conference hosted by Global Custodian shed light on the pressing need for innovation in custody account opening. The event served as a rallying cry for industry players to embrace technology-driven solutions that streamline processes, improve transparency, and ultimately, enhance client satisfaction.
 
-![NY Image](assets/images/NY_Blue.jpeg)
+![NY Image](assets/images/NY_Blue.jpeg){: .rectangular-image}
 
 ## The Regulatory and Operational Challenge
 
