@@ -53,3 +53,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
