@@ -1,0 +1,72 @@
+---
+layout: post
+title: "24-Hour Trading: Are your Ops Teams Ready?"
+date: 2025-02-03
+categories: [financial servicing, investing, digital assets, custody]
+tags: [financial servicing, investing, digital assets, custody]
+---
+
+
+# 24-Hour Trading: Preparing Global Custody Operations for a Round-the-Clock Market
+
+Are Global Custodians ready for a world of 24hr trading? With major exchanges like the NYSE planning to extend their trading hours—from the current 4 am–8 pm to an expanded 1:30 am–11:30 pm window—and platforms such as Robinhood already offering overnight trading, the move towards 24-hour markets is gaining serious momentum. This shift, accelerated by the pandemic lockdowns, is prompting market participants to re-examine operational processes across the board. For Global Custody professionals, these changes present both challenges and opportunities to re-engineer systems that have long operated under traditional market hours.
+
+---
+
+## The 24-Hour Trading Conundrum
+
+At first glance, extending trading hours seems straightforward—a simple adjustment to accommodate increased market demand. However, beneath the surface lies a series of surprisingly complex debates. Some of the key questions that have emerged include:
+
+### Key Questions
+
+- **When does a trading day begin and end?**  
+  In a 24-hour market, the traditional markers that define the start and end of the trading day blur, complicating everything from settlement times to the determination of closing prices. Given that closing prices serve as the reference point for trillions of dollars in funds, establishing clear and universally accepted benchmarks becomes critical.
+
+- **What is the closing price?**  
+  Without a defined endpoint, portfolio managers may struggle with reference points needed to manage risk effectively. How will they handle significant price movements occurring when key decision-makers and systems are offline? And, what is the end-of-day price that feeds into your daily NAV calculations?
+
+- **How are corporate actions processed?**  
+  After the close, a complex system of clearing and settlement kicks in to ensure accurate re-registration of holdings and proper payment to sellers. With extended trading hours, questions arise about when and how these corporate actions should be processed.
+
+- **Reconciliation and Settlement Processes:**  
+  Traditional systems designed around a single trading day are now under pressure. An increase in back-of-the-clock dealing requires custodians to adapt their reconciliation processes to ensure transactions—whether executed during core hours or overnight—are settled accurately and efficiently.
+
+- **Scale and Complexity:**  
+  While 80% of trading activity still occurs during the traditional New York market hours (9:30 am to 4 pm), the sheer scale of the institutions involved means even minor adjustments can have outsized impacts.
+
+- **System Testing and Maintenance:**  
+  For instance, while 24X—a new Bermuda-based alternative trading system backed by Steve Cohen’s Point72 Ventures—proposes a one-hour downtime at 7 pm, the NYSE is suggesting a two-hour pause starting at 11:30 pm. How brokers and custodians test and manage their systems during these late hours remains an operational hurdle.
+
+---
+
+## Preparing for the Future: Operational Readiness in Global Custody
+
+The reality is clear: the future of trading is continuous. For Global Custody professionals, the challenge lies in transforming operational processes to accommodate a market that never sleeps. This involves:
+
+### Action Points
+
+- **Conducting a Comprehensive Operational Review:**  
+  - Assess your current systems and processes.  
+  - Determine if they are capable of handling transactions outside traditional market hours.  
+  - Identify gaps that could lead to system downtime, reconciliation errors, or risk management oversights.
+
+- **Investing in Technology and Infrastructure:**  
+  - Upgrade IT systems to support real-time monitoring and reconciliation.  
+  - Ensure that corporate actions and settlements are managed effectively regardless of when trades occur.
+
+- **Enhancing Risk Management Practices:**  
+  - Develop strategies to monitor and mitigate overnight market risks.  
+  - Consider implementing automated alerts, advanced analytics, and real-time data feeds to keep portfolio managers informed.
+
+- **Revisiting Compliance Protocols:**  
+  - Work with regulatory experts to ensure that extended trading hours do not create compliance blind spots, particularly in relation to best execution and settlement processes.
+
+---
+
+## Let’s Navigate This Transition Together
+
+For those in the Global Custody space, the implications of 24-hour trading extend far beyond simple schedule adjustments. They necessitate a rethinking of systems and processes that underpin every aspect of the custody lifecycle—from transaction processing and settlement to risk management and regulatory compliance.
+
+If you’re grappling with the operational challenges brought on by the move towards continuous trading, now is the time to re-evaluate your systems. I invite you to connect with me to discuss how we can analyze your current processes and develop strategies to ensure your operations are not only compliant but optimized for a 24/7 market.
+
+Reach out today, and let’s explore how to future-proof your Global Custody operations in this brave new era of trading.

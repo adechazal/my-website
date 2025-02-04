@@ -22,8 +22,8 @@ title: alex de chazal
 email: adechazal00@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog about financial services, sustainability, and adventure travel.
-baseurl: "" # Default baseurl for local development
-url: "http://localhost:4000" # Default URL for local development
+baseurl: "/my-website" # Baseurl for production
+url: "https://adechazal.github.io" # URL for production
 github_username:  adechazal
 linkedin_username: alex-de-chazal
 instagram_username: chazal1
