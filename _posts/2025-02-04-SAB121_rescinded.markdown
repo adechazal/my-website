@@ -26,3 +26,4 @@ With SAB 121 now rescinded by SAB 122, global custodians such as BNY and SSB can
 
 While self-custody cold storage remains the safest option for individual crypto holders, institutional investors often have no choice but to rely on qualified custodians. The rollback of SAB 121 may encourage these investors to reconsider their custodial relationships and for custodians to offer the services.
 
+And, as a post-note to this story, I see that Gary Gensler is now a professor at MIT and that the team at Gemini annouced on X that they would not hire any students from MIT as long as he is still there. The hate runs deep.
