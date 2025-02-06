@@ -2,7 +2,7 @@
 layout: post
 title: "Strengthening American Leadership in Digital Financial Technology"
 date: 2025-01-29
-categories: [finance, investing, digital assets, custody]
+categories: [financial services]
 tags: [finance, investing, digital assets, custody]
 ---
 

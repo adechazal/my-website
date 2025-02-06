@@ -2,7 +2,7 @@
 layout: post
 title: "24-Hour Trading: Are your Ops Teams Ready?"
 date: 2025-02-03
-categories: [financial servicing, investing, digital assets, custody]
+categories: [financial services]
 tags: [financial servicing, investing, digital assets, custody]
 ---
 

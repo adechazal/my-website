@@ -2,7 +2,7 @@
 layout: post
 title: "Learning about Community Solar in Jersey City"
 date: 2025-01-18
-categories: [sustainability, energy]
+categories: [sustainability]
 tags: [sustainability, impact investing, energy]
 ---
 

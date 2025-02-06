@@ -2,7 +2,7 @@
 layout: post
 title: "Tokenization and the DTCC"
 date: 2025-02-05
-categories: [finance, investing, digital assets, custody]
+categories: [financial services]
 tags: [finance, investing, digital assets, custody]
 ---
 

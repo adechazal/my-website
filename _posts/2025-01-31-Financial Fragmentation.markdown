@@ -2,7 +2,7 @@
 layout: post
 title: "Financial Fragmentation"
 date: 2025-01-31
-categories: [finance, investing, digital assets, custody]
+categories: [financial services]
 tags: [finance, investing, digital assets, custody]
 ---
 

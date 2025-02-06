@@ -2,7 +2,7 @@
 layout: post
 title: "Transforming Custody Account Opening with Technology"
 date: 2025-02-01
-categories: [finance, investing, tradfi, custody]
+categories: [financial services]
 tags: [finance, investing, digital assets, custody]
 ---
 
