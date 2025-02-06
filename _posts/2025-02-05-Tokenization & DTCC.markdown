@@ -29,24 +29,13 @@ This statement not only highlights DTCC’s commitment to innovation but also re
 
 DTCC projects that by 2030 the tokenization of global illiquid assets could represent a **$16 trillion business opportunity**. For context, the total market capitalization of the US stock market stood at approximately **$62.2 trillion** at the end of 2024—indicating that tokenized assets could eventually account for nearly a quarter of that figure.
 
-This impressive number is drawn from a 2022 study by BCG and primarily refers to asset classes such as:
-
-- Real estate (including home equity)
-- Natural resources and land
-- Commodities and public infrastructure (e.g., mines, ports)
-- Fine art and computing infrastructure
-- Private equity and other limited-access asset classes (e.g., pre-IPO stocks, hedge funds, infrastructure projects, private credit)
+This impressive number is drawn from a 2022 study by BCG and primarily refers to **real-world asset classes** such as Real estate (including home equity), Natural resources and land, Commodities and public infrastructure (e.g., mines, ports), Fine art and computing infrastructure, Private equity and other limited-access asset classes (e.g., pre-IPO stocks, hedge funds, infrastructure projects, private credit)
 
 This data suggests that tokenization could open up new avenues for investment, traditionally available only to select wealthy investors and institutions.
 
 ## The Benefits of Tokenization
 
-One of the most attractive features of tokenizing assets is the potential to fundamentally transform the way ownership is structured and managed. Some notable benefits include:
-
-- **Programmability:** Tokens can be programmed to include self-executing features that automate aspects of the investment lifecycle.
-- **Self-Executing Automation:** Smart contracts can enable instantaneous reconciliation and execution of trades, reducing the need for intermediaries.
-- **Enhanced Transparency:** Blockchain technology ensures that all token transactions are recorded immutably, promoting greater transparency.
-- **Democratized Access:** Tokenization can lower barriers to entry, potentially opening up high-value investments to a broader range of investors.
+One of the most attractive features of tokenizing assets is the potential to fundamentally transform the way ownership is structured and managed. Some notable benefits include **Programmability**, **Self-Executing Automation**, **Enhanced Transparency**, and **Democratized Access**.
 
 These features suggest a future where individuals could, quite literally, own a fraction of a global asset portfolio—directly from their smartphones.
 
