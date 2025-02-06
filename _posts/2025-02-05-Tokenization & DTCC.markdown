@@ -11,7 +11,7 @@ tags: [finance, investing, digital assets, custody]
 In a progressive move that signals growing institutional confidence in digital assets, DTCC yesterday unveiled ComposerX, a rebranded and enhanced version of the former Securrency product suite. This new platform is designed to streamline the creation, tokenization, and settlement of digital assets—an evolution that may significantly reshape how we view traditional and alternative investments.
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/dtcc.jpg' | relative_url }}" alt="DTCC Image" style="max-width: 100%; height: auto;">
+  <img src="{{ '/assets/images/DTCC.jpg' | relative_url }}" alt="DTCC Image" style="max-width: 100%; height: auto;">
   <p><em>DTCC's new ComposerX platform aims to revolutionize digital asset management. &copy;alex de chazal</em></p>
 </div>
 
