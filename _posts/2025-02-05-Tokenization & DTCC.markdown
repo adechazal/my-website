@@ -54,36 +54,20 @@ These features suggest a future where individuals could, quite literally, own a 
 
 Despite the promise of tokenization, significant hurdles remain. Matt Levin of Bloomberg raises critical questions about the feasibility of fractional ownership of real estate and other traditionally illiquid assets. He outlines three challenges:
 
-### Market Demand
+- Do people **want** to buy fractional ownership of individual houses or office buildings? Would there be a robust market for that?
 
-- **Question:** Do people want to buy fractional ownership of individual houses or office buildings? Would there be a robust market for that?
+- Do we have the right **legal** regime to allow that? US securities law regulates the issuance and trading of shares of companies, and the natural way to sell fractional ownership of an office building is to put the building in a company and sell shares of that company. However, US securities law has extensive disclosure requirements for companies that sell stock to the public, and it might be inefficient to file a prospectus for every house. In fact, there are many tokens of fractional ownership of real estate that trade on US stock exchanges—they are called REITs (real estate investment trusts)—but they tend to own big pools of revenue-generating real estate, because the costs of complying with securities law are high.
 
-### Legal and Regulatory Framework
-
-- **Question:** Do we have the right legal regime to allow that? US securities law regulates the issuance and trading of shares of companies, and the natural way to sell fractional ownership of an office building is to put the building in a company and sell shares of that company. However, US securities law has extensive disclosure requirements for companies that sell stock to the public, and it might be inefficient to file a prospectus for every house. In fact, there are many tokens of fractional ownership of real estate that trade on US stock exchanges—they are called REITs (real estate investment trusts)—but they tend to own big pools of revenue-generating real estate, because the costs of complying with securities law are high.
-
-### Technological Requirements
-
-- **Question:** Do we have the right computer technology to trade shares of individual houses or office buildings?  
+- Do we have the right **computer technology** to trade shares of individual houses or office buildings?  
 Although blockchain is often touted for its innovative potential, Levin argues that current technology—essentially, robust databases and a website—already meets many of today’s trading needs.
 
 Levin also notes that the value proponents of tokenization are really chasing is a way to bypass traditional securities regulations. However, the involvement of established institutions and regulators like DTCC could mean that any such benefits may be short-lived.
 
 ## Looking Ahead: The Future of Digital Asset Tokenization
 
-The next five years are poised to be a transformative period for digital asset tokenization. With the new US administration showing support for blockchain innovations and major players like DTCC actively entering the space, several scenarios are possible:
+The next five years are poised to be a transformative period for digital asset tokenization. With the new US administration showing support for blockchain innovations and major players like DTCC actively entering the space, several scenarios are possible. 
 
-### Liberation of Illiquid Assets
-
-- **Potential Outcome:** Tokenization may indeed open up new markets and democratize investment, allowing smaller investors access to opportunities that were previously out of reach.
-
-### Regulatory Oversight Intensifies
-
-- **Potential Outcome:** As big regulators and institutions get involved, stringent compliance requirements may curb some of the initial excitement surrounding the technology.
-
-### A Mixed Outcome
-
-- **Potential Outcome:** The eventual impact may be a blend of both trends—greater access and efficiency on one side, and regulatory constraints that preserve market stability on the other.
+Tokenization may indeed open up **new markets and democratize investment**, allowing smaller investors access to opportunities that were previously out of reach. But, as big regulators and institutions get involved, **stringent compliance requirements** may curb some of the initial excitement surrounding the technology. Overall, the eventual impact may be a **blend of both** greater access and efficiency on one side, and regulatory constraints that preserve market stability on the other.
 
 Only time will tell if the digital asset revolution will truly democratize investment or simply concentrate power among those already at the top.
 
