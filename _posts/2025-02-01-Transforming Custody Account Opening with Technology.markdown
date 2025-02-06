@@ -4,6 +4,7 @@ title: "Transforming Custody Account Opening with Technology"
 date: 2025-02-01
 categories: [financial services]
 tags: [finance, investing, digital assets, custody]
+permalink: /financial-services/2025/02/01/transforming-custody-account-opening-with-technology.html
 ---
 
 # Unlocking the Future: Transforming Custody Account Opening with Technology
