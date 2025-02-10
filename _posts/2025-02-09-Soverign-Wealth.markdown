@@ -18,7 +18,7 @@ I love to invest. I get to explore exciting new companies, buy a share, and watc
 
 My experience with sovereign wealth funds began back in 1997 when I joined the Bank of New York in Singapore. At the time, BNY had just acquired the JPMorgan book of Custody business, which included the US Custody business of the Government of Singapore Investment Corporation (GIC). My role was to ensure they could access our systems to “affirm trades” during the settlement process. Later, as the Continuous Linked Settlement (CLS) system for FX transactions emerged, I was tasked with training GIC on managing FX settlements. I even recall a lengthy discussion about 128-bit encryption—how that little padlock in Internet Explorer’s URL bar was supposed to symbolize robust security. They put me through my paces as a rookie client-trainer.
 
-### Lessons from Singapore: Due Diligence and the Price of Secrecy
+### Lessons from Singapore: Due Diligence
 
 Working with GIC, I witnessed firsthand how seriously they took due diligence. Winning, and keeping, GIC’s business was a badge of credibility—so much so that we weren’t allowed to mention it in our marketing. The rationale was simple: if something was good enough for GIC, it should be good enough for anyone. However, if every investment fund in Singapore appointed BNY there would be a concentration risk. So, in order to avoid that risk, the government-linked corporations (GLCs) were assigned quotas on which firms they could appoint. BNY had to navigate these quotas.
 
