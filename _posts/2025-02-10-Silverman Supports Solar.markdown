@@ -10,8 +10,8 @@ tags: [sustainability, impact investing, energy]
 On Friday I had the pleasure to join the official on-boarding of SILVERMAN Inc. into Solar Landscape’s Community Solar program.
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/CommunitySolarAmbassador_Silverman-1.jpeg' | relative_url }}" alt="Silverman image" style="max-width: 100%; height: auto;">
-  <p><em>LtoR: Debra Italian (SJC), Paul Silverman (SILVERMAN), Kevin Dunshee (Solar Landscape), Alex de Chazal (SJC), Sarah Salvatoriello (SJC) . &copy;Silverman</em></p>
+  <img src="{{ '/assets/images/CommunitySolarAmbassador.jpeg' | relative_url }}" alt="CS brand image" style="max-width: 100%; height: auto;">
+  <p><em>LtoR: Become a Community Solar Ambassador. &copy;alex de chazal</em></p>
 </div>
 
 SILVERMAN building inc. is now a “Community Solar Ambassador” and will help to promote sign-ups for the Solar Landscape community outreach program. 
