@@ -12,6 +12,10 @@ tags: [financial servicing, investing, digital assets, custody]
 Are Global Custodians ready for a world of 24hr trading? With major exchanges like the NYSE planning to extend their trading hours—from the current 4 am–8 pm to an expanded 1:30 am–11:30 pm window—and platforms such as Robinhood already offering overnight trading, the move towards 24-hour markets is gaining serious momentum. This shift, accelerated by the pandemic lockdowns, is prompting market participants to re-examine operational processes across the board. For Global Custody professionals, these changes present both challenges and opportunities to re-engineer systems that have long operated under traditional market hours.
 
 ---
+<div style="text-align: center;">
+  <img src="{{ '/assets/images/NYSE.jpg' | relative_url }}" alt="NYSE Image" style="max-width: 100%; height: auto;">
+  <p><em>The NYSE celebrates July 4th. &copy;alex de chazal</em></p>
+</div>
 
 ## The 24-Hour Trading Conundrum
 
