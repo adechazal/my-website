@@ -11,7 +11,7 @@ On Friday I had the pleasure to join the official on-boarding of SILVERMAN Inc. 
 
 <div style="text-align: center;">
   <img src="{{ '/assets/images/CommunitySolarAmbassador.jpg' | relative_url }}" alt="CS brand image" style="max-width: 100%; height: auto;">
-  <p><em>LtoR: Become a Community Solar Ambassador. &copy;alex de chazal</em></p>
+  <p><em>Become a Community Solar Ambassador. &copy;alex de chazal</em></p>
 </div>
 
 SILVERMAN building inc. is now a “Community Solar Ambassador” and will help to promote sign-ups for the Solar Landscape community outreach program. 
