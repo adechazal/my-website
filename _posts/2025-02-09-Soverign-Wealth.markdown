@@ -14,6 +14,8 @@ tags: [finance, investing, sovereign wealth fund, custody]
 
 I love to invest. I get to explore exciting new companies, buy a share, and watch the stock tickers with anticipation. I relish the feeling of triumph when my stock climbs—and, admittedly, I also share the pain (and stubborn perseverance) when it falls. So, if I were President, I’d definitely exercise my ‘right’ to a country investment fund. And, calling it a “sovereign wealth” fund has a pretty appealing ring to it.
 
+In the latest [Executive Order](https://www.whitehouse.gov/presidential-actions/2025/02/a-plan-for-establishing-a-united-states-sovereign-wealth-fund/) from the White House that is exactly what Trump has said he will do - start a Sovereign Wealth Fund.
+
 ### A First Glimpse: My Encounter with Sovereign Wealth Funds
 
 My experience with sovereign wealth funds began back in 1997 when I joined the Bank of New York in Singapore. At the time, BNY had just acquired the JPMorgan book of Custody business, which included the US Custody business of the Government of Singapore Investment Corporation (GIC). My role was to ensure they could access our systems to “affirm trades” during the settlement process. Later, as the Continuous Linked Settlement (CLS) system for FX transactions emerged, I was tasked with training GIC on managing FX settlements. I even recall a lengthy discussion about 128-bit encryption—how that little padlock in Internet Explorer’s URL bar was supposed to symbolize robust security. They put me through my paces as a rookie client-trainer.

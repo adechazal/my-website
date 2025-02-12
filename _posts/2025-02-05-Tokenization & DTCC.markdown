@@ -19,7 +19,7 @@ In a progressive move that signals growing institutional confidence in digital a
 
 ### ComposerX Suite Overview
 
-DTCC’s announcement introduces ComposerX as a comprehensive suite featuring two key new modules:
+DTCC’s [announcement](https://www.dtcc.com/news/2025/february/04/dtcc-announces-composerx) introduces [ComposerX](https://www.dtcc.com/digital-assets/composerx) as a comprehensive suite featuring two key new modules:
 
 - **ComposerX Factory:** A sophisticated tokenization engine that integrates advanced data management capabilities.
 - **ComposerX LedgerScan:** A tool engineered to monitor, report, and consolidate token activity across the ecosystem.
