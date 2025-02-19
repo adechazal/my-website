@@ -10,6 +10,11 @@ tags: [finance, investing, digital assets, custody]
 
 In an industry where regulatory compliance is a moving target and documentation volumes can be overwhelming, a recent conference hosted by Global Custodian shed light on the pressing need for innovation in custody account opening. The event served as a rallying cry for industry players to embrace technology-driven solutions that streamline processes, improve transparency, and ultimately, enhance client satisfaction.
 
+<div style="text-align: center;">
+  <img src="{{ '/assets/images/safe_deposit.jpg' | relative_url }}" alt="CS brand image" style="max-width: 100%; height: auto;">
+  <p><em>Safe Deposit Before Big Tech. &copy;alex de chazal</em></p>
+</div>
+
 ## The Regulatory and Operational Challenge
 
 Custody account opening is no ordinary process—it’s a full-scale regulatory exercise. Regulatory requirements change regularly often without immediate guidance on how to interpret or comply. This dynamic environment means that custodians must continuously adjust to evolving rules while managing an enormous amount of documentation. According to Oliver Maxwell from S&P Global Market Intelligence, their ecosystem can collect over 300,000 documents a year! The scale of the problem is not small. 
