@@ -9,4 +9,6 @@ title: ""
 # Welcome!
 Explore my thoughts on financial services, sustainability, and maybe a little adventure travel.
 
+![NYC Image]({{ '/assets/images/nyc.jpg' | relative_url }})
+
 
