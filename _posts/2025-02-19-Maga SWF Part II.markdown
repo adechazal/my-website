@@ -6,10 +6,10 @@ categories: [financial services]
 tags: [finance, investing, sovereign wealth fund, custody]
 ---
 
-# Could a US SWF become a tool for national reinvention?
+# What do we know about the US SWF so far? Some insights from the FT.
 
 **Introduction**  
-In this post, I take a deeper look at the intriguing prospect of a US Sovereign Wealth Fund—a topic with the potential to change the global investment landscape. And where investments go, so goes Custody and related Financial Services. Drawing from the latest [Financial Times podcast Unhedged](https://on.ft.com/3EKsFpR), I’ve noted key take-away points that capture both the potential benefits and significant risks of such a fund. These insights serve as a foundation to explore how a US SWF might reshape national economic policy and investment strategy.
+In this post, I take a deeper look at Trump's proposal for a US Sovereign Wealth Fund—a topic with the potential to change the global investment landscape. Drawing from the latest [Financial Times podcast Unhedged](https://on.ft.com/3EKsFpR), I’ve noted key take-away points that capture both the potential benefits and significant risks of such a fund. These insights serve as a foundation to explore how a US SWF might reshape national economic policy and investment strategy.
 
 **Uncertainty Over the Fund’s Purpose**  
 The first point—and perhaps the most frustrating—is that the new Trump administration has not defined the goal of the fund. Is it meant to be a stabilization fund, a savings fund, or a strategic fund? Meanwhile, it appears this isn’t a new idea at all. The Biden administration explored the concept but chose not to pursue it, presumably concluding it wasn’t the best option—although the reasoning remains unclear. However, assuming the fund is for the vague ideal of making America great again then where would the funds come from exactly? 
