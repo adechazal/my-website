@@ -14,6 +14,11 @@ No, you missed it? You’re not alone. After a month of emails, social media pos
 
 I should mention that I’m relatively new to Jersey City, having just returned to North America after more than 25 years abroad. So, I may have been the last to know about how these local energy programs work. It may also help explain my naive assumption that Community Solar would practically sell itself. Turns out, it does not.
 
+<video width="100%" height="auto" controls autoplay>
+  <source src="{{ '/assets/images/nycvid.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## The Basics: Solar you don’t install
 
 The first thing to know about Community Solar is that you don’t need to install panels. A New Jersey company, Solar Landscape, installs these on top of warehouses, schools, or unused land. Once the project is active, the energy collected is fed back into the grid, which, in my case, is managed by PSE&G.
