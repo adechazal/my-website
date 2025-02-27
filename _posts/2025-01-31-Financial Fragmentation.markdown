@@ -4,6 +4,7 @@ title: "Financial Fragmentation"
 date: 2025-01-31
 categories: [financial services]
 tags: [finance, investing, digital assets, custody]
+excerpt: "SWIFT has published a paper outlining the damage that could be done in a world without standards."
 ---
 
 # SWIFT calls for harmony 

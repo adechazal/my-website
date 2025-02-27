@@ -4,6 +4,7 @@ title: "Strengthening American Leadership in Digital Financial Technology"
 date: 2025-01-29
 categories: [financial services]
 tags: [finance, investing, digital assets, custody]
+excerpt: "This month the new US administration issued an Executive Order that sets a new tone for innovation in Financial Markets and Financial Services."
 ---
 
 # Strengthening American Leadership in Digital Financial Technology – The White House

@@ -4,6 +4,7 @@ title: "US Sovereign Wealth Fund"
 date: 2025-02-09
 categories: [financial services]
 tags: [finance, investing, sovereign wealth fund, custody]
+excerpt: "The US wants its own Sovereign Wealth Fund."
 ---
 
 **Investing on a National Scale: What If the U.S. Became a Wall Street Investor?**

@@ -4,6 +4,7 @@ title: "Learning about Community Solar in Jersey City"
 date: 2025-01-18
 categories: [sustainability]
 tags: [sustainability, impact investing, energy]
+excerpt: "This is the draft of a blog post I am writing for Sustainable Jersey City."
 ---
 
 This is the draft of a blog post I am writing for Sustainable Jersey City.

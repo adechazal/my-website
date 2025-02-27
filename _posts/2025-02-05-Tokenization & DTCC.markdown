@@ -4,6 +4,7 @@ title: "Tokenization and the DTCC"
 date: 2025-02-05
 categories: [financial services]
 tags: [finance, investing, digital assets, custody]
+excerpt: "Would you like to buy the letters 'DTCC'? Shh...not so loud. They are now 'tokenized' and you can buy just one if you like."
 ---
 
 # DTCC Announces ComposerX: Paving the Way for Institutional Digital Asset Adoption

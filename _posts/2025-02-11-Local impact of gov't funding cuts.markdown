@@ -4,6 +4,7 @@ title: "Jersey City Nonprofits: A Call for a New Funding Model"
 date: 2025-02-11
 categories: [sustainability]
 tags: [sustainability, impact investing]
+excerpt: "A look at how are non-profits adapting to the new administration"
 ---
 
 # Local Impact and the Path Forward

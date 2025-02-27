@@ -4,6 +4,7 @@ title: "SAB 121 Rescinded"
 date: 2025-02-04
 categories: [financial services]
 tags: [finance, investing, digital assets, custody]
+excerpt: "Banks are now free to Custodize digital assets and the Crypto-bros couldn't be happier about it."
 ---
 
 # Crypto Custody Shakeup: SAB 122 Rescinds Controversial Regulation

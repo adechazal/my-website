@@ -4,6 +4,7 @@ title: "Trade Date + 1 Settlement - Dates Set for the UK and Europe"
 date: 2025-02-21
 categories: [financial services]
 tags: [financial servicing, investing, digital assets, custody]
+excerpt: "Both the UK and Brussels have now announced plans to transition to same-day trade settlement, known as T+1, with an implementation target of October 11, 2027."
 ---
 
 **UK and Brussels Set Course for T+1 Settlement by October 2027**

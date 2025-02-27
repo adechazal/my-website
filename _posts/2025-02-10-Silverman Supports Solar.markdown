@@ -4,6 +4,7 @@ title: "Silverman Support Solar - Community Solar in Action!"
 date: 2025-02-10
 categories: [sustainability]
 tags: [sustainability, impact investing, energy]
+excerpt: "On Friday I had the pleasure to join the official on-boarding of SILVERMAN Inc. into Solar Landscape’s Community Solar program."
 ---
 # A Win for Community Solar
 

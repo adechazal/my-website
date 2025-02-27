@@ -4,6 +4,7 @@ title: "Maga SWF Part II"
 date: 2025-02-19
 categories: [financial services]
 tags: [finance, investing, sovereign wealth fund, custody]
+excerpt: "In this post, I take a deeper look at Trump's proposal for a US Sovereign Wealth Fund—a topic with the potential to change the global investment landscape."
 ---
 
 # What do we know about the US SWF so far? Some insights from the FT.
